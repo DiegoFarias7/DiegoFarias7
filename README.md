@@ -1,16 +1,23 @@
-# | Bem vindo ao meu portifólio / Welcome to my portfolio 👋|
+<center><h2> Bem vindo ao meu portifólio / Welcome to my portfolio 👋<h2><center>
 
-<!--
-**DiegoFarias7/DiegoFarias7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gif_programador](https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif)
 
-Here are some ideas to get you started:
+👻 Meu nome é Diego, vem comigo me conhecer um pouquinho!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📒 Sou estudante de Analise e Desenvolvimento de Sistemas e atualmente estou no 5 semestre!
+
+☕ Sou desenvolvedor backend com enfase em java e microserviços, também sou muito interessado por python e kotlin
+
+<center><h2><h2> Minhas redes profissionais <h2><h2><center>
+<p align="center">
+<a href="https://www.linkedin.com/in/diego-macedo-602438208/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="70" height="70">
+</a>
+<a href="https://www.dio.me/users/diegofariasmacedo1" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="LinkedIn" width="70" height="70">
+</a>
+</p>
+
+<p align="center">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFarias7&hide_progress=true">
+</p>
